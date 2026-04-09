@@ -5,7 +5,6 @@ This project explores the relationship between socio-demographic factors (Age, E
 
 ## Contributor
 - Youness EL HACHIMI
-- 
 ## Key Features
 - Exploratory Data Analysis (EDA) using Seaborn and Matplotlib.
 - Data cleaning and preprocessing.
